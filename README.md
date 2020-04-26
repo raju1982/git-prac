@@ -1,6 +1,6 @@
 # git-prac
 create local repo -
-- git clone -b <branch> <url> <folder-name>
+- git clone -b branch url folder-name
 - git add 1.txt
 - git commit -m "firstCommit"
 - git remote -v
