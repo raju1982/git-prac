@@ -18,7 +18,7 @@ create local repo -
 sync local repo from remote repo -
 - git fetch --all
 - git checkout master
-- git pull / git merge
+- git pull origin / git merge
   
 create new branch -
 - git branch iss53
