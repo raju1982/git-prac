@@ -20,6 +20,9 @@ sync local repo from remote repo -
 - git checkout master
 - git pull origin / git merge
   
+Reset modified files -
+- git checkout -- RealtimeProfileEntityIngestionProcessor.java
+
 create new branch -
 - git branch iss53
 - git checkout iss53
