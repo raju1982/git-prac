@@ -60,3 +60,5 @@ Merge feature-branch into master
 - git add .
 - git commit
 - git push origin master
+
+https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
