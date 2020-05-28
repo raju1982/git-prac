@@ -4,7 +4,7 @@ create local repo -
 - git add 1.txt
 - git commit -m "firstCommit"
 - git remote -v
-- git push origin branch
+- git push origin branch-name
  
 create local repo -
 - create maven project using intellij
