@@ -61,4 +61,13 @@ Merge feature-branch into master
 - git commit
 - git push origin master
 
+reverting last commit
+- git revert commit-id
+ 
+change commit message
+- git commit --amend -m "completed substract"
+
+see files in each commit
+- git log --stat
+
 https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
