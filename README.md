@@ -72,6 +72,7 @@ see files in each commit
 
 Creating new remote branch from existing branch
 - git clone -b branch url folder-name
+- cd folder-name
 - git checkout -b new-branch
 - git push origin new-branch
 
