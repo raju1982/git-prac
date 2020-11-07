@@ -77,8 +77,8 @@ Creating new remote branch from existing branch
 - git push origin new-branch
 
 Miscellaneous
-git add css/app.css js/app.js
-git add . (The period refers to the current directory and can be used as a shortcut to refer to all files and directories (including all nested files and directories!)).
+- git add css/app.css js/app.js
+- git add . (The period refers to the current directory and can be used as a shortcut to refer to all files and directories (including all nested files and directories!)).
 
 
 https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
