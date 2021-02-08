@@ -86,5 +86,8 @@ Delete or rename file
 - git add <new file name> [if renamed]
 - git commit m ""
 - git push origin <branch>
+ 
+Merge Develop into your branch
+- git pull origin develop
 
 https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
