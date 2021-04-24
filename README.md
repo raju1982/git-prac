@@ -90,4 +90,12 @@ Delete or rename file
 Merge Develop into your branch
 - git pull origin develop
 
+Adding new local project to git
+- git init
+- git remote add origin https://github.com/<YOUR_REPOSITORY_ADDRESS>
+- git add .
+- git commit -m "first commit" 
+- git branch -M main
+- git push -u origin main
+
 https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
